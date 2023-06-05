@@ -1,0 +1,36 @@
+# compilation files
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+
+# C extensions
+*.so
+
+
+# directories
+runs/
+*sanity/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+
+# visualization, output, and data files
+*.jpg
+*.png
+*.dcm
+*.json
+*.txt
+*.pt
+*.pts
+
+
+# weight files and pickle files
+*.pth
+*.pkl
+
+
