@@ -24,7 +24,6 @@ runs/
 *.png
 *.dcm
 *.json
-*.txt
 *.pt
 *.pts
 
